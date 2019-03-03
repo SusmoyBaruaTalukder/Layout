@@ -1,0 +1,324 @@
+.top
+{
+	overflow: hidden;
+}
+
+/* TOP Left */
+.topLeft
+{
+	background-color: rgb(224,224,224);
+	float: left;
+	min-height: 550px;
+	width: 49%;
+}
+.topLeftLogo
+{
+	background-color: rgb(192,192,192);
+	min-height: 50px;
+	width: 90%;
+	margin: auto;
+}
+.topLeftNavigation
+{
+	background-color: rgb(192,192,192);
+	min-height: 30px;
+	width: 90%;
+	margin: auto;
+}
+.topLeftHeader
+{
+	background-color: rgb(192,192,192);
+	min-height: 70px;
+	width: 90%;
+	margin: auto;
+}
+
+#sideBody
+{
+	overflow: hidden;
+	width: 90%;
+	margin: auto;
+}
+
+.topLeftSideBar
+{
+	background-color: rgb(192,192,192);
+	min-height: 250px;
+	width: 30%;
+	float: left;
+}
+.topLeftBodyArea
+{
+	background-color: rgb(192,192,192);
+	min-height: 250px;
+	width: 65%;
+	float: right;
+}
+.topLeftFooter
+{
+	background-color: rgb(192,192,192);
+	min-height: 30px;
+	width: 90%;
+	margin: auto;
+}
+
+/* TOP Right */
+.topRight
+{
+	background-color: rgb(224,224,224);
+	min-height: 550px;
+	width: 49%;	
+	float: right;
+}
+
+#topRightlogoNavigation
+{
+	width: 90%;
+	margin: auto;
+	overflow: hidden;
+}
+.topRightLogo
+{
+	background-color: rgb(192,192,192);
+	min-height: 50px;
+	width: 30%;
+	float: left;
+}
+.topRightNavigation
+{
+	text-align: center;
+	background-color: rgb(192,192,192);
+	min-height: 50px;
+	width: 70%;
+	float: right;
+}
+.topRightHeader
+{
+	background-color: rgb(192,192,192);
+	min-height: 50px;
+	width: 90%;
+	margin: auto;
+}
+.topRightIntro
+{
+	background-color: rgb(192,192,192);
+	min-height: 50px;
+	width: 90%;
+	margin: auto;
+}
+#topRightBox
+{
+	overflow: hidden;
+	width: 90%;
+	margin: auto;
+}
+.topRightBox1
+{
+	background-color: rgb(192,192,192);
+	min-height: 250px;
+	width: 30%;
+	float: left;
+}
+.topRightBox2
+{
+	background-color: rgb(192,192,192);
+	min-height: 250px;
+	width: 30%;
+	float: left;
+}
+.topRightBox3
+{
+	background-color: rgb(192,192,192);
+	min-height: 250px;
+	width: 30%;
+	float: right;
+}
+.topRightFooter
+{
+	background-color: rgb(192,192,192);
+	min-height: 30px;
+	width: 90%;
+	margin: auto;
+}
+
+
+.bottom
+{
+
+}
+
+/* Bottom Left */
+.bottomLeft
+{
+	background-color: rgb(224,224,224);
+	float: left;
+	min-height: 550px;
+	width: 49%;
+}
+.bottomLeftLogo
+{
+	background-color: rgb(192,192,192);
+	min-height: 50px;
+	width: 90%;
+	margin: auto;
+}
+.sideHeaderBody
+{
+	width: 90%;
+	margin: auto;
+	overflow: hidden;
+}
+.sideBar
+{
+	float: left;
+	width: 25%;
+	min-height: 350px;
+	background-color: rgb(224,224,224);
+}
+.headerBody
+{
+	float: right;
+	width: 75%;
+}
+.header
+{
+	background-color: rgb(192,192,192);
+	min-height: 70px;
+	width: 90%;
+	margin: auto;
+}
+.body
+{
+	background-color: rgb(192,192,192);
+	min-height: 250px;
+	width: 90%;
+	margin: auto;
+}
+.bottomLeftFooter
+{
+	background-color: rgb(192,192,192);
+	min-height: 30px;
+	width: 90%;
+	margin: auto;
+}
+
+/* Bottom Right */
+.bottomRight
+{
+	background-color: rgb(224,224,224);
+	float: right;
+	min-height: 550px;
+	width: 49%;
+}
+#bottomRightlogoNavigation
+{
+	width: 90%;
+	margin: auto;
+	overflow: hidden;
+}
+.bottomRightLogo
+{
+	background-color: rgb(192,192,192);
+	min-height: 50px;
+	width: 30%;
+	float: left;
+}
+.bottomRightNavigation
+{
+	text-align: center;
+	background-color: rgb(192,192,192);
+	min-height: 50px;
+	width: 70%;
+	float: right;
+}
+.gallery
+{
+	overflow: hidden;
+}
+.gallery1Row
+{	
+	width: 90%;
+	margin: auto;
+	overflow: hidden;
+}
+.galleryRow1
+{
+	background-color: rgb(192,192,192);
+	min-height: 55px;
+	width: 20%;
+	float: left;
+}
+.galleryRow2
+{
+	background-color: rgb(192,192,192);
+	min-height: 55px;
+	width: 20%;
+	float: left;
+}
+.galleryRow3
+{
+	background-color: rgb(192,192,192);
+	min-height: 55px;
+	width: 20%;
+	float: left;
+}
+.galleryRow4
+{
+	background-color: rgb(192,192,192);
+	min-height: 55px;
+	width: 20%;
+	float: right;
+}
+.gallery2Row
+{
+	width: 90%;
+	margin: auto;
+	overflow: hidden;
+}
+.gallery3Row
+{
+	width: 90%;
+	margin: auto;
+	overflow: hidden;
+}
+.gallery4Row
+{
+	width: 90%;
+	margin: auto;
+	overflow: hidden;
+}
+
+#bottomRightBox
+{
+	overflow: hidden;
+	width: 90%;
+	margin: auto;
+}
+.bottomRightBox1
+{
+	background-color: rgb(192,192,192);
+	min-height: 100px;
+	width: 30%;
+	float: left;
+}
+.bottomRightBox2
+{
+	background-color: rgb(192,192,192);
+	min-height: 100px;
+	width: 30%;
+	float: left;
+}
+.bottomRightBox3
+{
+	background-color: rgb(192,192,192);
+	min-height: 100px;
+	width: 30%;
+	float: right;
+}
+.bottomRightFooter
+{
+	background-color: rgb(192,192,192);
+	min-height: 30px;
+	width: 90%;
+	margin: auto;
+}
